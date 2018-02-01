@@ -7,3 +7,4 @@ c=c*a;
 printf("%d",c);
 return 0;
 }
+}
