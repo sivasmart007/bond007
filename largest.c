@@ -10,4 +10,3 @@ printf("%d is largest ",b);
 if(c>=a&&c>=b)
 printf("%d is largest",c);
 }
-}|
