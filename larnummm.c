@@ -14,3 +14,4 @@ l=a[i];
 printf("%d",l);
 return 0;
 }
+}
