@@ -8,5 +8,4 @@ printf("%d is largest",a);
 if( b>=a&&b>=c)
 printf("%d is largest ",b);
 if(c>=a&&c>=b)
-printf("%d is largest",c);
 }
