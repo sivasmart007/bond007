@@ -11,7 +11,3 @@ for(i=1;i<b;i++)
 if (l< a[i])
 l=a[i];
 }
-printf("%d",l);
-return 0;
-}
-}
